@@ -1,6 +1,6 @@
-#=====================================================================
+=====================================================================
 #Road Sign Search Program - README
-#=====================================================================
+=====================================================================
 Author: Stephen Deline
 Description: The purpose of this program is to identify and highlight
 any road signs that may be present in a user provided input image
